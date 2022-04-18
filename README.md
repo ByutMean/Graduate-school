@@ -61,36 +61,36 @@ Code collection of assignments, practice, etc. in graduate school lectures
 
 ## Advanced_Machine_Learning
 
-- Assignment1 
+- Assignment1 ```HW01.py```
     - Creating a T-test Statistics Table
 
-        ```HW01.py```
+        
 
         ![hw01](/Advanced_machine_learning/image/HW01.PNG)
 
 
-- Assignment2 
+- Assignment2 ```HW02.py```
     - Implementing a kernel graphs
 
-        ```HW02.py```
+        
 
         ![hw02_1](/Advanced_machine_learning/image/HW02_plot1.PNG)
         
         ![hw02_2](/Advanced_machine_learning/image/HW02_plot2.PNG)
 
-- Assignment3 
+- Assignment3 ```HW03.py```
     - Implementing a SVC
 
-        ```HW03.py```
+        
 
         ![hw03_1](/Advanced_machine_learning/image/HW03_plot1.PNG)
         
         ![hw03_2](/Advanced_machine_learning/image/HW03_plot2.PNG)
 
-- Assignment4 
+- Assignment4 ```HW04.py```
     - Implementing a Bayesian Network
 
-        ```HW04.py```
+        
 
         ![hw04_1](/Advanced_machine_learning/image/HW04_table1.PNG)  
         ![hw04_2](/Advanced_machine_learning/image/HW04_table2.PNG)
@@ -102,10 +102,8 @@ Code collection of assignments, practice, etc. in graduate school lectures
 
 ## Artificial_Neurl_Network and Deep_Learning
 
-- Assignment1 
+- Assignment1 ```Assignment1_FNN.ipynb```
     - FashionMNIST Classification with FNN and Logistic Regression
-
-        ```Assignment1_FNN.ipynb```
 
         Accuracy and Loss
 
