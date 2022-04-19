@@ -11,7 +11,24 @@ Code collection of assignments, practice, etc. in graduate school lectures
 
 ## Unstructured_Data_Analysis
 
-- 
+- week2 ```week2_postagging``` 
+    - Korean corpus postagging practice
+- week3 ```week3_network```
+    - network analysis
+- week5 ```week5_TFIDF```
+    - TF-IDF % countvectorize
+- week6 ```week6_word2vec```
+    - word2vec
+- week7 ```week7_tokenizer```
+    - tokenizer by keras
+- week8 ```week8_clustering```
+    - clustering
+- week10 ```week10_webcrawling```
+    - webcrawling by selenium
+- week12 ```week12_sequence_RNN```
+    - Sequnce & RNN modeling by keras
+- week13 ```week13_transformer_attention``` 
+    - Transformer & attention modeling by keras
 
 <br>
 
